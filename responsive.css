@@ -9,7 +9,7 @@
     .navlist{
         display: flex;
         position: absolute;
-        top: -100%;
+        top: -1000%;
         right: 0;
         left: 0;
         flex-direction: column;
