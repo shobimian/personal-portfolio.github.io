@@ -48,4 +48,12 @@
     .liquid-shape{
         display: none;
     }
+    /* skills section/// */
+    .skill-main{
+        grid-template-columns: 1fr;
+    }
 }
+
+
+
+
